@@ -1,4 +1,4 @@
-# Tabela-de-Descontos-em-Portugol
+# Tabela-de-Descontos-em-VisualG
 Para ajudar a galera que esta com dificuldades nesse exercicio:
 
 Um e-commerce de livros está fazendo uma promoção para pagamento à vista, no boleto, em que é aplicado, pelo sistema, um entre os três critérios de desconto:
